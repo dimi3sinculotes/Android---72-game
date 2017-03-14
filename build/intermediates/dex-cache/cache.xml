@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_512e9e47aaed960b7d601fb29af7821c570d5e3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_95934b3c7e31753652fc64e25a79107ba0e3bacf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_6e01c8332e006a86df94bc3b26f4956bc4d1225d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6a5d6c656038c44a9cc515776f04dd39041ed1e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_e798f237a5211fc13d5b89c595ace5a7b63598eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_4778f21b45a18eb7376040a0ff3652a47bf74887.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_f9df25589841bed1cafe40c18f0cd8a1d472a09d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_bb8366643649dea1a15507165a680c89aedc26e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_923a486ad170dc417be053389edaaf6a73e1fdca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_9ce86fb6a3cf0f7b0a79e6480eb25db21ffebe12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4dd27f1b1a848767b75f3c0855c962c8bfb1a582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_eb5061a18f4f0c7e94c0340f49048bc8c5ecf420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_9ce0c409cba0ec20e3f18157cac97add723984a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_235397f86c8218d26b292f0749f012f5146f71c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rafal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Rafal\AndroidStudioProjects\72winver2\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_65a4d59e0616a0ad156d9723e0158ccd5b0aadcf.jar" />
+    </item>
+
+</items>
